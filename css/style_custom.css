@@ -1,0 +1,342 @@
+html {
+
+  overflow-x: hidden !important;
+  overflow-y: scroll;
+
+}
+
+#ibm-image {
+
+  border-radius: 5px;
+
+}
+
+#right-nav {
+
+  float: right;
+  font-size: 20px;
+
+}
+
+
+#navbar {
+
+  background-color: rgb(23, 23, 65) !important;
+  height: 11vh;
+  
+  box-shadow: 0 5px 6px 4px rgba(0,0,0,.2);
+
+}
+
+#navbar a {
+
+  position: relative;
+
+}
+
+#background-img {
+
+
+  position: absolute;
+
+
+  width: 100vw;
+  top: -50px;
+  
+  
+  z-index: -1;
+
+}
+
+.white-writing {
+
+  color: white !important;
+  
+
+}
+
+#home-section {
+
+  display: flex;
+
+  justify-content: center;
+
+}
+
+
+
+#home-section h1, #home-section h2 {
+
+  color: rgb(236, 231, 231) !important
+
+}
+
+#main-title, #subtitle {
+
+  background-color: rgb(31, 28, 28);
+
+}
+
+#home-section {
+
+  overflow: hidden;
+  height: 100vh;
+
+}
+
+#nav-title {
+
+  margin-left: 10px;
+  font-size: 20px;
+
+}
+
+body {
+
+  background-color: white;
+  overflow-x: hidden !important;
+  position: relative !important;
+  width: 100% !important;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+
+}
+
+.unslate_co--site-nav .site-nav-ul > li > a, .unslate_co--site-nav .site-nav-ul-none-onepage > li > a {
+  color: black;
+}
+
+.unslate_co--site-nav .site-nav-ul > li > a:hover, .unslate_co--site-nav .site-nav-ul-none-onepage > li > a:hover {
+  color: rgb(207, 82, 82);
+}
+
+.unslate_co--site-nav .site-nav-ul > li > a.active:before, .unslate_co--site-nav .site-nav-ul-none-onepage > li > a.active:before {
+  color: rgb(207, 82, 82);
+}
+
+.unslate_co--site-nav .site-nav-ul-none-onepage > li > a.active:before {
+  color: rgb(207, 82, 82);
+}
+
+.unslate_co--site-nav .site-nav-ul > li.has-children > .dropdown, .unslate_co--site-nav .site-nav-ul > li.has-children > ul, .unslate_co--site-nav .site-nav-ul-none-onepage > li.has-children > .dropdown, .unslate_co--site-nav .site-nav-ul-none-onepage > li.has-children > ul {
+ background: rgb(207, 82, 82);
+}
+
+.unslate_co--site-nav .site-nav-ul > li.has-children > .dropdown > li.has-children > a:before, .unslate_co--site-nav .site-nav-ul > li.has-children > ul > li.has-children > a:before, .unslate_co--site-nav .site-nav-ul-none-onepage > li.has-children > .dropdown > li.has-children > a:before, .unslate_co--site-nav .site-nav-ul-none-onepage > li.has-children > ul > li.has-children > a:before {
+
+  color: black
+}
+
+.unslate_co--site-nav .site-nav-ul > li.active > a:before, .unslate_co--site-nav .site-nav-ul-none-onepage > li.active > a:before {
+  color: black;
+  width: calc(100% - 40px);
+}
+
+.unslate_co--site-nav .site-nav-ul > li > a:before, .unslate_co--site-nav .site-nav-ul-none-onepage > li > a:before {
+
+  background: black;
+
+}
+
+.unslate_co--site-nav .unslate_co--site-logo {
+  font-size: 1.7rem;
+  color: black;
+  font-weight: 700;
+}
+
+.unslate_co--site-mobile-menu {
+
+  background: rgb(207, 82, 82);
+
+}
+
+.unslate_co--site-mobile-menu .close-wrap a .close-label {
+
+  color: black
+}
+
+#logo {
+  font-family: 'Averia Serif Libre', cursive;
+
+}
+
+#first {
+
+  color: black;
+
+}
+
+#second {
+  color: red;
+
+}
+
+.dropdown a {
+
+  color: black !important;
+
+}
+
+.close-label:hover {
+
+  color: whitesmoke !important
+
+}
+
+.black-writing {
+
+  color: black !important;
+
+}
+
+
+
+.averia{
+
+  font-family: 'Averia Serif Libre', cursive;
+
+}
+
+#videoBG {
+
+  position: absolute;
+  z-index: -1;
+
+}
+
+.bold {
+
+  font-weight: bold !important;
+
+}
+
+#tracking-ss {
+
+  width: 70vw;
+  
+
+}
+
+#tracking-ss-wrapper {
+
+  margin: 7vh auto;
+  
+  
+
+}
+
+.section-image {
+
+  margin-top: 5vh;
+
+}
+
+
+
+
+
+#portfolio-section {
+
+  background-color: white;
+  z-index: 2;
+  position: relative;
+
+}
+
+h1 {
+
+  font-size: 70px !important;
+  
+
+}
+
+#portfolio-section span, #portfolio-section p, #portfolio-section h2 {
+
+  color: black !important;
+
+}
+
+#reworking-header {
+
+  color: black !important;
+
+}
+
+
+#basket-full-screen {
+
+  background-color:green;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  float: right;
+  
+
+}
+
+#container-nav {
+
+  width: 100% !important;
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+
+
+}
+
+#test {
+
+  width: 15px;
+  height: 15px;
+  background-color: green;
+  float:right !important;
+  position: absolute !important;
+  top: 0px;
+  left: 90vw;
+  
+
+}
+
+.clear {
+
+  clear:both;
+
+}
+
+.list-img {
+
+  height: 30vh;
+  position: relative;
+
+}
+
+#wimbledon2-img {
+
+  height: 60vh;
+
+}
+
+.larger-img {
+
+  height: 60vh !important;
+
+}
+
+.grid-img {
+
+  height: 50vh !important;
+  
+
+}
+
+.bottom-row-grid-img {
+
+  margin-top: 10vh !important;
+
+}
+
+.grid-margin-left {
+
+  margin-right: 5vw;
+
+}
